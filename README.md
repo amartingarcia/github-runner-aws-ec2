@@ -28,7 +28,7 @@ Check the files:
 
 Also, review the Terraform files. Afterward, run terraform apply.
 
-Once applied, add the changes to your repository and check that both pipelines are running correctly
+Once applied, add the changes to your repository and check that both pipelines are running correctly.
 
 ## Access key y Secret key
 ### Start instance
